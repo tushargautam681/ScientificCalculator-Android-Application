@@ -1,5 +1,5 @@
 # Scientific Calculator (Android)
-
+<img width="853" height="739" alt="Screenshot 2025-05-27 175631" src="https://github.com/user-attachments/assets/b62145e0-c494-4078-b32c-dcc161558b54" />
 An Android scientific calculator app built with Java and AndroidX. It supports standard arithmetic operations plus scientific functions such as square root, trigonometric functions (sin, cos, tan), logarithms (log, ln), exponentiation, and percentage. The app also keeps a short history of recent calculations.
 
 ## Features
