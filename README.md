@@ -36,15 +36,3 @@ An Android scientific calculator app built with Java and AndroidX. It supports s
 3. **Run the app**  
    - Select an emulator or a connected Android device.  
    - Click **Run ▶** to install and launch the app.
-
-## Notes for GitHub
-
-- A project-level **`.gitignore`** is included to exclude:
-  - Gradle caches (`.gradle/`), build outputs (`build/`), and IDE files (`.idea/`, `.vscode/`).
-  - Local machine–specific files like `local.properties`, keystore files (`*.jks`, `*.keystore`), and APK/AAB artifacts.
-- The project does **not** contain API keys, passwords, or other secrets in source or config files.
-
-## License
-
-You can add your preferred license here (e.g., MIT, Apache-2.0) before publishing on GitHub.
-
