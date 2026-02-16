@@ -1,0 +1,28 @@
+/.gradle/
+/build/
+**/build/
+/.idea/
+/.vscode/
+local.properties
+*.iml
+.DS_Store
+/captures/
+.externalNativeBuild/
+.cxx/
+*.log
+*.apk
+*.aab
+
+# Android Studio specific
+.navigation/
+.classpath
+.project
+.settings/
+
+# Keystore files (do not commit signing keys)
+*.jks
+*.keystore
+
+# Misc
+Thumbs.db
+ehthumbs.db
